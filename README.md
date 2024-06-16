@@ -7,13 +7,11 @@
 
 # 😗 Installation 💚
 ```
-pip uninstall requests chardet urllib3 idna certifi sniffio httpcore -y;pip install chardet urllib3 idna certifi requests sniffio httpcore 
-
 cd
 
 rm -rf HOP-BACK
 
-git clone --depth=1 https://github.com/HOP-404/HOP-BACK
+git clone https://github.com/HOP-404/HOP-BACK
 
 cd HOP-BACK
 
