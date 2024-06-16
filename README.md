@@ -1,11 +1,11 @@
 <a href="https://ibb.co/pRZsdp3"><img src="https://i.ibb.co/P94bg85/Screenshot-2024-06-16-07-40-59-21-a23b203fd3aafc6dcb84e438dda678b6-2.jpg" alt="Screenshot-2024-06-16-07-40-59-21-a23b203fd3aafc6dcb84e438dda678b6-2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>picture hosts</a><br />
-# ðŸŒ WORKING ON ALL COUNTRY ðŸ˜‰ 
+# 😮‍💨 WORKING ON ALL COUNTRY ✅
 
 
 
 
 
-# ðŸ“² Installation âŸ©
+# 😗 Installation 💚
 ```
 pip uninstall requests chardet urllib3 idna certifi sniffio httpcore -y;pip install chardet urllib3 idna certifi requests sniffio httpcore 
 
@@ -24,7 +24,7 @@ python GREEN.py
 
 
 
-# ~/ ðŸ›  Features:
+# ~/ 🥵›  Features:
 - 1. FILE CLONE
 - 2. RANDOM NUMBERS CLONE
 - 3. FILE MAKE
