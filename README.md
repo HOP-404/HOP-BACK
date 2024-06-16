@@ -15,7 +15,7 @@ rm -rf HOP-BACK
 
 git clone --depth=1 https://github.com/HOP-404/HOP-BACK
 
-cd MR-SAVAGE
+cd HOP-BACK
 
 python GREEN.py
 
