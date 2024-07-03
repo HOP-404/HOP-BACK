@@ -15,7 +15,7 @@ git clone https://github.com/HOP-404/HOP-BACK
 
 cd HOP-BACK
 
-python GREEN.py
+python HOP-GREEN.py
 ```
 [Note: This Tools Are Paid So You Need Permission To Use This Tools]
 
