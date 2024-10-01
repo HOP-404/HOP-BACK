@@ -23,5 +23,4 @@ python HOP-GREEN.py
 
 # ~/ 🥵›  Features:
 - 1. FILE CLONE
-- 2. RANDOM NUMBERS CLONE
-- 3. FILE MAKE
+- 2. RANDOM CLONE ALL COUNTRY 
