@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 -c "import HOPE"
+python3 -b "import HOPE"
