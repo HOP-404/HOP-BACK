@@ -1,1 +1,2 @@
-import HOP
+#!/bin/bash
+python3 -c "import HOPE"
