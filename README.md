@@ -23,4 +23,4 @@ python GREEN.py
 
 # ~/ 🥵›  Features:
 - 1. FILE CLONE
-- 2. RANDOM ALL COUNTRY 
+- 2. RANDOM COUNTRY 
