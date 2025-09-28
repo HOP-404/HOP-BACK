@@ -1,2 +1,2 @@
 #!/bin/bash
-import BDD
+import BD
