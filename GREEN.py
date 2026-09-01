@@ -1,2 +1,2 @@
 #!/bin/bash
-import oll
+import randomx
